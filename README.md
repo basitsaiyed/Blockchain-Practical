@@ -44,7 +44,7 @@ This project includes practical implementations of blockchain technology. The pr
    If your code requires additional Node.js packages, you can install them using npm. For example:
 
    ```bash
-   npm install crypto
+   npm install
    ```
 
    *Note: Include any other dependencies your project requires in the `package.json` file.*
@@ -52,11 +52,7 @@ This project includes practical implementations of blockchain technology. The pr
 ## Saving Code
 
 1. **Create the necessary JavaScript files**:
-   You need to create a JavaScript file (e.g., `index.js`) for your project. Use the following command to create the file:
-
-   ```bash
-   touch index.js
-   ```
+   You need to create a JavaScript file (e.g., `index.js`) for your project.
 
 2. **Copy the code**:
    Open the newly created `index.js` file in your preferred code editor (e.g., VS Code) and paste the blockchain code into the file.
